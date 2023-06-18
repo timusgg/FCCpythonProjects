@@ -1,2 +1,2 @@
 # FCCpythonProjects
-freeCodeCamp python projects
+The five projects for the freeCodeCamp's 'Scientific Computing in Python' certification.
